@@ -1,5 +1,6 @@
 # Editor directories and files
 .vscode/
+.docs
 .idea/
 *.suo
 *.ntvs*
