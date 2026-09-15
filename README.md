@@ -45,7 +45,7 @@ Existem duas formas principais de seguir este material:
 9. Fluxo de trabalho completo
 
 ## Status Atual
-🚧 **Em Desenvolvimento (MVP)** 🚧  
+**Em Desenvolvimento (MVP)**  
 O projeto está atualmente em sua fase inicial (construção do MVP). Estamos estruturando os processos e criando os primeiros guias manuais. Nenhuma automação está ativa no momento.
 
 ## Roadmap Resumido (MVP)
@@ -58,5 +58,5 @@ O projeto está atualmente em sua fase inicial (construção do MVP). Estamos es
 Sua contribuição é bem-vinda! Consulte nosso arquivo [CONTRIBUTING.md](./CONTRIBUTING.md) para entender como enviar melhorias, correções ou sugerir novos processos de gestão.
 
 ---
-**⚠️ Aviso Importante sobre os Exemplos**
+**Aviso Importante sobre os Exemplos**
 *Todas as práticas documentadas aqui baseiam-se em aprendizados reais de engenharia e gestão de software. No entanto, todos os dados, códigos e issues apresentados como exemplo neste playbook são estritamente fictícios.*
