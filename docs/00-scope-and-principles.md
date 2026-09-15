@@ -29,8 +29,8 @@ Para uma nova prática de gestão ser incluída neste playbook, ela deve:
 * Possuir valor comprovável em projetos reais (seja individual ou para pequenas equipes).
 * Não aumentar significativamente a sobrecarga do desenvolvedor.
 
-## Política de Anonimização (Caso SADE)
-O playbook utiliza aprendizados reais de engenharia e gestão retirados do desenvolvimento do sistema **SADE**. Contudo, é rigorosamente proibida a menção de dados, trechos de código-fonte reais, nomes de arquiteturas exclusivas ou informações privadas referentes ao projeto SADE. Todos os exemplos citados ao longo do guia deverão ser fictícios ou adaptados com dados públicos de casos genéricos.
+## Política de Anonimização
+O playbook utiliza aprendizados reais de engenharia e gestão de software. Contudo, todos os exemplos citados ao longo do guia deverão ser fictícios ou adaptados com dados genéricos e públicos, garantindo que não haja qualquer exposição de dados ou arquiteturas de projetos privados e reais.
 
 ## Fluxo Mínimo vs Fluxo Completo
 * **Fluxo Mínimo:** Direcionado a projetos pessoais ou acadêmicos solitários. Foco apenas no controle de tarefas e versionamento sem bloqueios (apenas Issues, Branch `main` e Commits).

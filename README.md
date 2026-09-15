@@ -59,4 +59,4 @@ Sua contribuição é bem-vinda! Consulte nosso arquivo [CONTRIBUTING.md](./CONT
 
 ---
 **⚠️ Aviso Importante sobre os Exemplos**
-*Grande parte das práticas documentadas aqui baseiam-se em aprendizados extraídos do desenvolvimento do sistema **SADE**. No entanto, todos os dados, códigos e issues apresentados como exemplo neste playbook são estritamente fictícios ou previamente anonimizados. Nenhuma informação privada ou dado sensível do SADE será exposta.*
+*Todas as práticas documentadas aqui baseiam-se em aprendizados reais de engenharia e gestão de software. No entanto, todos os dados, códigos e issues apresentados como exemplo neste playbook são estritamente fictícios.*
