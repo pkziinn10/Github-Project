@@ -14,9 +14,14 @@ Criar a fundação do repositório educacional `Github-Project`, que ensinará g
 - [x] Criação do `.gitignore`.
 - [x] Criação da `LICENSE`.
 
-## Fase 2: Configuração e GitHub Projects (Próximos passos)
-- Configurar manualmente a primeira Milestone (MVP).
-- Criar as primeiras Issues para o projeto.
-- Configurar o Kanban (GitHub Projects).
+## Fase 2: Configuração e GitHub Projects (Concluída)
+- [x] Configurar manualmente a primeira Milestone (MVP).
+- [x] Criar as primeiras Issues para o projeto.
+- [x] Configurar o Kanban (GitHub Projects).
+
+## Fase 3: PRs, Branches e Releases (Próximos passos)
+- [ ] Documentar o fluxo de Code Review.
+- [ ] Documentar criação de Pull Requests.
+- [ ] Documentar processo de Release e Versionamento (SemVer).
 
 *Nota: Nenhum script de automação será criado nesta fase, garantindo um aprendizado passo a passo.*
